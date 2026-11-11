@@ -1,0 +1,37 @@
+# throwaway environments and tooling
+qrvenv/
+qrlib314/
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+logs/
+scratch/
+*.epub
+*.bak
+*.bak-*
+
+# runtime state and anything secret
+.jarvis_*
+*token*
+*secret*
+*.env
+.env
+*.pem
+*.key
+phone_qr.png
+*.vsix
+*.onnx
+*.wav
+spend-freely-state.json
+
+# YOUR personal notes live at the workspace root, copied from templates/. Never publish them.
+/HANDOFF.md
+/open-questions.md
+/future-tasks.md
+/long-term.md
+/completed-tasks.md
+/blocked.md
+/away-report.md
+/study-notes/
