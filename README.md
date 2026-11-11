@@ -32,6 +32,10 @@ Do NOT write your notes into a clone of this repo if you plan to push it somewhe
 Tokens, API keys, PINs, ntfy topics, Tailscale hostnames, QR images (`phone_qr.png` contains your web token), your own
 notes, copyrighted books or EPUBs. The `.gitignore` covers the usual names.
 
+## Contributing
+
+If you build a useful skill, agent or helper script, your Claude may offer to help you propose it to the main `jarvis` repo as a pull request (see its `SETUP.md`, section 17). Nothing is shared without your explicit yes, and your own notes from this workspace are never included. Ideas that are not skills: open an issue.
+
 ## License
 
 MIT, see `LICENSE`.
